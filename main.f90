@@ -4,7 +4,7 @@ program main
 
     real:: x1, x2, y1, y2, f
     real:: r
-    real:: l, b !l=klisi and b=tetagmeni
+    real:: l, b !l=gradient and b=ordinate
 
     print*, "Give the values of the vector x, x1 and x2"
     read*, x1,x2
